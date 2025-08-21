@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Unreal Projects\\ObstacleAssult\\Intermediate\\Build\\BuildRulesProjects\\ObstacleAssultModuleRules\\ObstacleAssultModuleRules.csproj": {}
+    "D:\\Unreal Projects\\ObstacleAssualt\\ObstacleAssultCPlusPlus\\ObstacleAssult\\Intermediate\\Build\\BuildRulesProjects\\ObstacleAssultModuleRules\\ObstacleAssultModuleRules.csproj": {}
   },
   "projects": {
     "D:\\Unreal Engine 6\\UE_5.6\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
@@ -1177,14 +1177,14 @@
         }
       }
     },
-    "D:\\Unreal Projects\\ObstacleAssult\\Intermediate\\Build\\BuildRulesProjects\\ObstacleAssultModuleRules\\ObstacleAssultModuleRules.csproj": {
+    "D:\\Unreal Projects\\ObstacleAssualt\\ObstacleAssultCPlusPlus\\ObstacleAssult\\Intermediate\\Build\\BuildRulesProjects\\ObstacleAssultModuleRules\\ObstacleAssultModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unreal Projects\\ObstacleAssult\\Intermediate\\Build\\BuildRulesProjects\\ObstacleAssultModuleRules\\ObstacleAssultModuleRules.csproj",
+        "projectUniqueName": "D:\\Unreal Projects\\ObstacleAssualt\\ObstacleAssultCPlusPlus\\ObstacleAssult\\Intermediate\\Build\\BuildRulesProjects\\ObstacleAssultModuleRules\\ObstacleAssultModuleRules.csproj",
         "projectName": "ObstacleAssultModuleRules",
-        "projectPath": "D:\\Unreal Projects\\ObstacleAssult\\Intermediate\\Build\\BuildRulesProjects\\ObstacleAssultModuleRules\\ObstacleAssultModuleRules.csproj",
+        "projectPath": "D:\\Unreal Projects\\ObstacleAssualt\\ObstacleAssultCPlusPlus\\ObstacleAssult\\Intermediate\\Build\\BuildRulesProjects\\ObstacleAssultModuleRules\\ObstacleAssultModuleRules.csproj",
         "packagesPath": "C:\\Users\\abual\\.nuget\\packages\\",
-        "outputPath": "D:\\Unreal Projects\\ObstacleAssult\\Intermediate\\Build\\BuildRulesProjects\\ObstacleAssultModuleRules\\obj\\",
+        "outputPath": "D:\\Unreal Projects\\ObstacleAssualt\\ObstacleAssultCPlusPlus\\ObstacleAssult\\Intermediate\\Build\\BuildRulesProjects\\ObstacleAssultModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
