@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\Unreal Projects\\ObstacleAssualt\\ObstacleAssultCPlusPlus\\ObstacleAssult\\Source\\ObstacleAssult\\ObstacleAssult.Build.cs",
-		"D:\\Unreal Projects\\ObstacleAssualt\\ObstacleAssultCPlusPlus\\ObstacleAssult\\Source\\ObstacleAssult.Target.cs",
-		"D:\\Unreal Projects\\ObstacleAssualt\\ObstacleAssultCPlusPlus\\ObstacleAssult\\Source\\ObstacleAssultEditor.Target.cs"
-	],
-	"EngineVersion": "5.6.1"
-}
