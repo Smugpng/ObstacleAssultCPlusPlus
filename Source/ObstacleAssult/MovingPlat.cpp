@@ -15,15 +15,8 @@ AMovingPlat::AMovingPlat()
 void AMovingPlat::BeginPlay()
 {
 	Super::BeginPlay();
-	UE_LOG(LogTemp, Display, TEXT("Moving Platform Begins Play 1"));
 
-	UE_LOG(LogTemp, Display, TEXT("Moving Platform Begins Play 2"));
-
-	UE_LOG(LogTemp, Display, TEXT("Moving Platform Begins Play 3"));
-
-	UE_LOG(LogTemp, Display, TEXT("Moving Platform Begins Play 4"));
-
-	int AnInt = 100;
+	MemberFloat = 10.0f;
 }
 
 // Called every frame
@@ -31,5 +24,6 @@ void AMovingPlat::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	MemberFloat++;
 }
 
