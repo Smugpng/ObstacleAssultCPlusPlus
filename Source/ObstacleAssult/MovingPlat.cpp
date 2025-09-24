@@ -16,7 +16,7 @@ void AMovingPlat::BeginPlay()
 {
 	Super::BeginPlay();
 
-	MemberFloat = 10.0f;
+	
 }
 
 // Called every frame
@@ -24,6 +24,6 @@ void AMovingPlat::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	MemberFloat++;
+	SetActorLocation(myVector);
 }
 
