@@ -23,7 +23,16 @@ void AMovingPlat::BeginPlay()
 void AMovingPlat::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+	
+	FVector CurrentLocation = GetActorLocation();
 
-	SetActorLocation(myVector);
+	CurrentLocation.X = CurrentLocation.X + 1;
+
+	SetActorLocation(CurrentLocation);
+}
+
+void CHECKMYASS() 
+{
+
 }
 
